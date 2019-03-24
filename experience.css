@@ -1,0 +1,56 @@
+body {
+    background-color: #ffe0e0;
+    font-family: Roboto;
+}
+
+#parent {
+    width: 80%;
+    margin: auto;
+    border: 1px solid #efdfbf);
+    background: #fffafa;
+    padding: 0% 0% 50% 0%;
+}
+
+#image {
+    float: left;
+    width: 20%;
+    margin: 2% 5% 5% 5%;
+
+}
+
+#duane1 {
+    border-radius: 50%;
+    height: 400px;
+
+}
+
+#text {
+    float: right;
+    width: 60%;
+    margin: 0% 5% 0% 0%;
+}
+
+h1 {
+    margin: 0% 0% 0% 35%;
+}
+
+#nav {
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    background-color: #ffc0d0;
+}
+
+.position {
+    width: 40%;
+    padding: 0px 10px 0px 0px;
+}
+
+.description {
+    width: 50%;
+    padding: 15px 0px 15px 0px;
+}
+
+#work_experiences {
+    background-color: #fff4e3;
+}
